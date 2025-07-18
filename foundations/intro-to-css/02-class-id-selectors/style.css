@@ -1,0 +1,19 @@
+.paragraph {
+  background-color: lightpink;
+  font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+#first {
+  color: blue;
+  font-size: 36px;
+}
+
+.extra {
+  font-size: 24px;
+}
+
+#second {
+  background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
